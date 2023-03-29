@@ -5,6 +5,6 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-add_lunch_combo omni_itel-W4002-user
-add_lunch_combo omni_itel-W4002-userdebug
-add_lunch_combo omni_itel-W4002-eng
+add_lunch_combo omni_W4002-user
+add_lunch_combo omni_W4002-userdebug
+add_lunch_combo omni_W4002-eng
