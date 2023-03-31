@@ -15,7 +15,7 @@ $(call inherit-product, vendor/omni/config/common.mk)
 $(call inherit-product, device/itel/W4002/device.mk)
 
 PRODUCT_DEVICE := W4002
-PRODUCT_NAME := omni_W4002
+PRODUCT_NAME := twrp_W4002
 PRODUCT_BRAND := Itel
 PRODUCT_MODEL := itel W4002
 PRODUCT_MANUFACTURER := itel
