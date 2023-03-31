@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_W4002.mk
+    $(LOCAL_DIR)/twrp_W4002.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_W4002-user \
-    omni_W4002-userdebug \
-    omni_W4002-eng
+    twrp_W4002-user \
+    twrp_W4002-userdebug \
+    twrp_W4002-eng
